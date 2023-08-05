@@ -1,6 +1,6 @@
 # 디자인 패턴을 활용하는 예시.
-# __init__.py 파일로 폴더를 import 해서 Concrete / Builder / Abstract 등을 구분짓고
-# 클래스와 파일명을 되도록 일치시킨다. (파일명.py)
+_ _init_ _.py 파일로 폴더를 import 해서 Concrete / Builder / Abstract 등을 구분짓고
+클래스와 파일명을 되도록 일치시킨다. (파일명.py)
 
 # 사용한 규칙
 변수영
