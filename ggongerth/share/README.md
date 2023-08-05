@@ -5,8 +5,10 @@ _ _init_ _.py 파일로 폴더를 import 해서 Concrete / Builder / Abstract �
 # 사용한 규칙
 변수영
 -> 소문자 O, 띄어쓰기 O -> 언더바 _ 활용
+
 -> 포인터는 앞에 P 추가
 
 함수 및 클래스
 -> 대문자 O, 띄어쓰기 X
+
 ->private 맨앞 언더바 _ 추가
